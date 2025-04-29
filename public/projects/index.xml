@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on My Portfolio</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on My Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Sep 2024 19:38:19 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sample</title>
+      <link>http://localhost:1313/projects/sample/</link>
+      <pubDate>Mon, 02 Sep 2024 19:38:19 +0100</pubDate>
+      <guid>http://localhost:1313/projects/sample/</guid>
+      <description>&lt;h2 id=&#34;project-one&#34;&gt;Project One&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;&#xA;Project One is a web application developed to [brief description of the project&amp;rsquo;s purpose].&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Technologies Used:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;React&lt;/li&gt;&#xA;&lt;li&gt;Node.js&lt;/li&gt;&#xA;&lt;li&gt;MongoDB&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Features:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Feature 1: Brief description.&lt;/li&gt;&#xA;&lt;li&gt;Feature 2: Brief description.&lt;/li&gt;&#xA;&lt;li&gt;Feature 3: Brief description.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Live Demo:&lt;/strong&gt; &lt;a href=&#34;https://www.projectone.com&#34;&gt;https://www.projectone.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Source Code:&lt;/strong&gt; &lt;a href=&#34;https://github.com/yourusername/project-one&#34;&gt;GitHub Repository&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Screenshots:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/project-one-screenshot1.jpg&#34; alt=&#34;Project One Screenshot&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/project-one-screenshot2.jpg&#34; alt=&#34;Project One Screenshot&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Challenges and Learnings:&lt;/strong&gt;&#xA;Discuss any challenges faced during development and what you learned from the project.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
