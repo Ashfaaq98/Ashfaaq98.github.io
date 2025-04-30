@@ -9,8 +9,9 @@ draft = false
 
 If you'd like to work together or have any questions, feel free to reach out. You can contact me through any of the following:
 
-- **Email:** [ashfaaqf@proton.com](mailto:your-email@example.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub:** [GitHub Profile](https://github.com/yourusername)
+- **Email:** [ashfaaqf@proton.com](mailto:ashfaaqf@proton.me)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ashfaaq98)
+- **GitHub:** [GitHub Profile](https://github.com/ashfaaq98)
 
 I look forward to connecting with you!
+

@@ -1,6 +1,6 @@
 baseURL = 'https://Ashfaaq98.github.io/'
 languageCode = 'en-us'
-title = 'My Portfolio'
+title = 'Ashfaaq Farzaan'
 theme = "paper"
 
 # Main Menu Configuration
@@ -16,17 +16,17 @@ theme = "paper"
 
   name = "About"
   url = "/about/"
-  weight = 10 # Lower weight appears first
+  weight = 10 # 
 
-[[menu.main]]
-  name = "Projects"
-  url = "/projects/"
-  weight = 20
+#[[menu.main]]
+ # name = "Projects"
+  #url = "/projects/"
+  #weight = 20
 
-[[menu.main]]
-  name = "Blog"
-  url = "/blog/" # Paper theme often defaults to 'posts' for blog section
-  weight = 30
+#[[menu.main]]
+ # name = "Blog"
+  #url = "/blog/" 
+  #weight = 30
 
 [[menu.main]]
   name = "Contact"
@@ -37,18 +37,18 @@ theme = "paper"
 
 [params]
   # color style
-  color = 'linen'                           # linen, wheat, gray, light
+  color = 'linen'                           
 
   # header social icons
-  twitter = 'YOUR_TWITTER_ID'               # twitter.com/YOUR_TWITTER_ID
-  github = 'YOUR_GITHUB_ID'                 # github.com/YOUR_GITHUB_ID
-  linkedin = 'YOUR_LINKEDIN_ID'             # linkedin.com/in/YOUR_LINKEDIN_ID
-
+  #twitter = 'YOUR_TWITTER_ID'              
+  github = 'Ashfaaq98'                 
+  linkedin = 'Ashfaaq98'             
+  huggingface = "your-hf-username"
 
   # home page profile
-  avatar = 'GRAVATAR_EMAIL'                 # gravatar email or image url
-  name = 'YOUR_NAME'
-  bio = 'YOUR_BIO'
+  avatar = 'my-portfolio/static/images/ashfaaq.png'                 # gravatar email or image url
+  name = 'Ashfaaq Farzaan'
+  bio = 'test'
 
 
   # misc

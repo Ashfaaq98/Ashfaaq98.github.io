@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Portfolio</title>
+    <title>Ashfaaq Farzaan</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My Portfolio</description>
+    <description>Recent content on Ashfaaq Farzaan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Apr 2025 21:50:27 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 21:52:45 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/projects/test/</link>
+      <pubDate>Sun, 13 Apr 2025 21:52:45 +0100</pubDate>
+      <guid>http://localhost:1313/projects/test/</guid>
+      <description></description>
+    </item>
     <item>
       <title>My First Blog Post</title>
       <link>http://localhost:1313/blog/first/</link>
@@ -27,14 +34,14 @@
       <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 02 Sep 2024 19:17:44 +0100</pubDate>
       <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;h1 id=&#34;get-in-touch&#34;&gt;Get in Touch&lt;/h1&gt;&#xA;&lt;p&gt;If you&amp;rsquo;d like to work together or have any questions, feel free to reach out. You can contact me through any of the following:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:your-email@example.com&#34;&gt;ashfaaqf@proton.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/yourprofile&#34;&gt;LinkedIn Profile&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/yourusername&#34;&gt;GitHub Profile&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I look forward to connecting with you!&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;get-in-touch&#34;&gt;Get in Touch&lt;/h1&gt;&#xA;&lt;p&gt;If you&amp;rsquo;d like to work together or have any questions, feel free to reach out. You can contact me through any of the following:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:ashfaaqf@proton.me&#34;&gt;ashfaaqf@proton.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/ashfaaq98&#34;&gt;LinkedIn Profile&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/ashfaaq98&#34;&gt;GitHub Profile&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I look forward to connecting with you!&lt;/p&gt;</description>
     </item>
     <item>
-      <title>About</title>
+      <title></title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 02 Sep 2024 19:17:39 +0100</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;&#xA;&lt;p&gt;Hello! I&amp;rsquo;m Ashfaaq, a passionate Cyber Security Analyst based in London, United Kingdom.&lt;/p&gt;&#xA;&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;[BSc]&lt;/strong&gt;, [Field of Study] - [SLIIT], [2022]&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;[MSc]&lt;/strong&gt;, [Field of Study] - [University_of_Westminster], [2024]&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;[Certification or Course]&lt;/strong&gt; - [Institution], [Year]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;experience&#34;&gt;Experience&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;[Job Title]&lt;/strong&gt; at [Company Name]&lt;br&gt;&#xA;&lt;em&gt;[Start Year] - [End Year or Present]&lt;/em&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Briefly describe your role and responsibilities.&lt;/li&gt;&#xA;&lt;li&gt;Mention significant achievements or projects.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;skills&#34;&gt;Skills&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Programming Languages:&lt;/strong&gt;  Python.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Frameworks &amp;amp; Libraries:&lt;/strong&gt; React, Node.js, Django&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tools &amp;amp; Platforms:&lt;/strong&gt; Git, Docker, AWS&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;interests&#34;&gt;Interests&lt;/h3&gt;&#xA;&lt;p&gt;When I&amp;rsquo;m not coding, I enjoy watching Football and Mixed Martial Arts.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;&#xA;&lt;p&gt;👋 Hello! I’m &lt;strong&gt;Ashfaaq Farzaan&lt;/strong&gt;, a &lt;strong&gt;Cyber AI Engineer&lt;/strong&gt; based in  London, UK 🇬🇧 — passionate about blending  artificial intelligence with  cybersecurity.&lt;/p&gt;&#xA;&lt;p&gt;🤖 With a  background in  digital forensics,  system engineering, and  Large Language Models (LLMs), I design and develop next-gen AI Agentic systems that enable faster, smarter threat detection, investigation, and response.&lt;/p&gt;&#xA;&lt;p&gt;🚀 My mission is to push the boundaries of AI-driven security while staying hands-on with real-world technical challenges.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Blog Post</title>
