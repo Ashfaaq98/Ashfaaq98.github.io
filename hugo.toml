@@ -1,7 +1,7 @@
 baseURL = 'https://Ashfaaq98.github.io/'
 languageCode = 'en-us'
 title = 'Ashfaaq Farzaan'
-theme = "paper"
+theme = ["paper",'hugo-shortcodes']
 
 # Main Menu Configuration
 
@@ -18,10 +18,10 @@ theme = "paper"
   url = "/about/"
   weight = 10 # 
 
-#[[menu.main]]
- # name = "Projects"
-  #url = "/projects/"
-  #weight = 20
+[[menu.main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 20
 
 #[[menu.main]]
  # name = "Blog"
@@ -40,15 +40,21 @@ theme = "paper"
   color = 'linen'                           
 
   # header social icons
-  #twitter = 'YOUR_TWITTER_ID'              
+  twitter = '@TaprobaneLinux'              
   github = 'Ashfaaq98'                 
   linkedin = 'Ashfaaq98'             
   huggingface = "your-hf-username"
 
   # home page profile
-  avatar = 'my-portfolio/static/images/ashfaaq.png'                 # gravatar email or image url
+  avatar = 'my-portfolio/static/images/ashfaaq.png'                 
   name = 'Ashfaaq Farzaan'
   bio = 'test'
+
+[params.HugoShortcodes.BuyMeACoffee]
+  Slug        = "qaafhsa"
+  Text        = "Buy me a coffee"
+  ButtonColor = "ffdd00"
+  FontColor   = "000000"
 
 
   # misc

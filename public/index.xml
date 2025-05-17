@@ -6,14 +6,21 @@
     <description>Recent content on Ashfaaq Farzaan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Apr 2025 21:52:45 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 19:38:19 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>http://localhost:1313/projects/test/</link>
-      <pubDate>Sun, 13 Apr 2025 21:52:45 +0100</pubDate>
-      <guid>http://localhost:1313/projects/test/</guid>
-      <description></description>
+      <title>GenAI Cyber Security Repo  🗃️</title>
+      <link>http://localhost:1313/projects/gen-ai-cyber/</link>
+      <pubDate>Mon, 12 May 2025 19:38:19 +0100</pubDate>
+      <guid>http://localhost:1313/projects/gen-ai-cyber/</guid>
+      <description>A curated collection of LLM‑based resources for cyber security</description>
+    </item>
+    <item>
+      <title>Skills Tracker</title>
+      <link>http://localhost:1313/projects/skills-tracker/</link>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/skills-tracker/</guid>
+      <description>A Skills Tracker Application to track your skills and reach your goals</description>
     </item>
     <item>
       <title>My First Blog Post</title>
@@ -23,25 +30,32 @@
       <description>&lt;p&gt;my first&lt;/p&gt;</description>
     </item>
     <item>
-      <title>sample</title>
-      <link>http://localhost:1313/projects/sample/</link>
-      <pubDate>Mon, 02 Sep 2024 19:38:19 +0100</pubDate>
-      <guid>http://localhost:1313/projects/sample/</guid>
-      <description>&lt;h2 id=&#34;project-one&#34;&gt;Project One&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;&#xA;Project One is a web application developed to [brief description of the project&amp;rsquo;s purpose].&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Technologies Used:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;React&lt;/li&gt;&#xA;&lt;li&gt;Node.js&lt;/li&gt;&#xA;&lt;li&gt;MongoDB&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Features:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Feature 1: Brief description.&lt;/li&gt;&#xA;&lt;li&gt;Feature 2: Brief description.&lt;/li&gt;&#xA;&lt;li&gt;Feature 3: Brief description.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Live Demo:&lt;/strong&gt; &lt;a href=&#34;https://www.projectone.com&#34;&gt;https://www.projectone.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Source Code:&lt;/strong&gt; &lt;a href=&#34;https://github.com/yourusername/project-one&#34;&gt;GitHub Repository&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Screenshots:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/project-one-screenshot1.jpg&#34; alt=&#34;Project One Screenshot&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/project-one-screenshot2.jpg&#34; alt=&#34;Project One Screenshot&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Challenges and Learnings:&lt;/strong&gt;&#xA;Discuss any challenges faced during development and what you learned from the project.&lt;/p&gt;</description>
+      <title>Model Context Protocol (MCP) Servers for Cyber 🧩</title>
+      <link>http://localhost:1313/projects/mcp-open-source/</link>
+      <pubDate>Sat, 05 Apr 2025 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/projects/mcp-open-source/</guid>
+      <description>A Langgraph CTI agent that leverages a MCP client to connect to MCP Servers</description>
+    </item>
+    <item>
+      <title>Neural Malware Detector 🕷️</title>
+      <link>http://localhost:1313/projects/neural-malware-detector/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/projects/neural-malware-detector/</guid>
+      <description>A Flask web app leveraging both Random Forest and RNN models to detect malware in uploaded files.</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 02 Sep 2024 19:17:44 +0100</pubDate>
       <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;h1 id=&#34;get-in-touch&#34;&gt;Get in Touch&lt;/h1&gt;&#xA;&lt;p&gt;If you&amp;rsquo;d like to work together or have any questions, feel free to reach out. You can contact me through any of the following:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:ashfaaqf@proton.me&#34;&gt;ashfaaqf@proton.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/ashfaaq98&#34;&gt;LinkedIn Profile&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/ashfaaq98&#34;&gt;GitHub Profile&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I look forward to connecting with you!&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;-get-in-touch&#34;&gt;📬 Get in Touch&lt;/h1&gt;&#xA;&lt;p&gt;If you&amp;rsquo;d like to work together or have any questions, feel free to reach out. You can contact me through any of the following:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;📧 &lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:ashfaaqf@proton.me&#34;&gt;ashfaaqf@proton.me&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;💼 &lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/ashfaaq98&#34;&gt;ashfaaq98&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;🐦 &lt;strong&gt;Twitter:&lt;/strong&gt; &lt;a href=&#34;https://x.com/TaprobaneLinux&#34;&gt;TaprobaneLinux&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;🛠️ &lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/ashfaaq98&#34;&gt;Check Github Repo &lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I look forward to connecting with you!&lt;/p&gt;&#xA;&lt;h3 id=&#34;-academic-profiles&#34;&gt;👣 Academic Profiles&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;For other platforms, feel free to explore the following profiles:&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;📑 &lt;strong&gt;DBLP:&lt;/strong&gt; &lt;a href=&#34;https://dblp.org/pid/375/1998.html&#34;&gt;View Publications&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;🎓 &lt;strong&gt;Google Scholar:&lt;/strong&gt; &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;user=aOkAU6MAAAAJ&#34;&gt;See Citations&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;📘 &lt;strong&gt;IEEE Xplore:&lt;/strong&gt; &lt;a href=&#34;https://ieeexplore.ieee.org/author/636303930526215&#34;&gt;Browse Author Page&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title></title>
+      <title>About Me</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 02 Sep 2024 19:17:39 +0100</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;&#xA;&lt;p&gt;👋 Hello! I’m &lt;strong&gt;Ashfaaq Farzaan&lt;/strong&gt;, a &lt;strong&gt;Cyber AI Engineer&lt;/strong&gt; based in  London, UK 🇬🇧 — passionate about blending  artificial intelligence with  cybersecurity.&lt;/p&gt;&#xA;&lt;p&gt;🤖 With a  background in  digital forensics,  system engineering, and  Large Language Models (LLMs), I design and develop next-gen AI Agentic systems that enable faster, smarter threat detection, investigation, and response.&lt;/p&gt;&#xA;&lt;p&gt;🚀 My mission is to push the boundaries of AI-driven security while staying hands-on with real-world technical challenges.&lt;/p&gt;</description>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;👋 Hello! I’m &lt;strong&gt;Ashfaaq Farzaan&lt;/strong&gt;, a &lt;strong&gt;Cyber AI Engineer&lt;/strong&gt; based in London, UK 🇬🇧. I love building systems that think and adapt by combining AI and cybersecurity to make technology safer for everyone.&lt;/p&gt;&#xA;&lt;p&gt;🤖 With a  background in  security,  system engineering, and  Large Language Models (LLMs), I design and develop next-gen AI Agentic systems for security operations.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“Lifelong learning fuels my mission to push the frontier of AI-driven security.”&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-education&#34;&gt;🎓 Education&lt;/h2&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h3 id=&#34;-academic&#34;&gt;🎖️ Academic&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;MSc in Cyber Security &amp;amp; Forensics (Distinction)&lt;/strong&gt;&lt;br&gt;&#xA;University of Westminster, London, United Kingdom&lt;br&gt;&#xA;&lt;em&gt;Jan 2023 – May 2024&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Blog Post</title>
@@ -49,6 +63,48 @@
       <pubDate>Mon, 02 Sep 2024 12:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/sample_blog/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to my first blog post! In this post, I will discuss&amp;hellip;&lt;/p&gt;&#xA;&lt;h2 id=&#34;main-content&#34;&gt;Main Content&lt;/h2&gt;&#xA;&lt;p&gt;[Your content goes here.]&lt;/p&gt;&#xA;&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;&#xA;&lt;p&gt;Thank you for reading!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Periscope  🔭</title>
+      <link>http://localhost:1313/projects/periscope/</link>
+      <pubDate>Fri, 26 Jan 2024 19:38:19 +0100</pubDate>
+      <guid>http://localhost:1313/projects/periscope/</guid>
+      <description>An AI‑enabled system for efficient cyber incident detection and response in cloud environments.</description>
+    </item>
+    <item>
+      <title>Porsha 🫆</title>
+      <link>http://localhost:1313/projects/porsha/</link>
+      <pubDate>Thu, 13 Apr 2023 21:52:45 +0100</pubDate>
+      <guid>http://localhost:1313/projects/porsha/</guid>
+      <description>A Python based Digital Forensic Toolkit.</description>
+    </item>
+    <item>
+      <title>SDN-based Load Balancer for SOHO Environments 🌐⚖️</title>
+      <link>http://localhost:1313/projects/sdn/</link>
+      <pubDate>Sat, 08 Jan 2022 00:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/projects/sdn/</guid>
+      <description>Development of an SDN-based load balancing algorithm that utilizes server bandwidth metrics, implemented on a POX controller and tested in Mininet and Raspberry Pi environments.</description>
+    </item>
+    <item>
+      <title>Enterprise Network Design for Multi-Tenant Data Center 🖧 📐</title>
+      <link>http://localhost:1313/projects/enteprise-network-design/</link>
+      <pubDate>Tue, 16 Nov 2021 19:38:19 +0100</pubDate>
+      <guid>http://localhost:1313/projects/enteprise-network-design/</guid>
+      <description>A comprehensive design diagram for a multi-tenant data center, focusing on physical and logical topologies, high availability, and disaster recovery using AWS.</description>
+    </item>
+    <item>
+      <title>Autonomous Air Controller 🌡️🏠</title>
+      <link>http://localhost:1313/projects/autonomous-air-controller/</link>
+      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/autonomous-air-controller/</guid>
+      <description>An IoT-based system to autonomously control air conditioner settings by monitoring room occupancy, individual body temperatures, and overall room temperature, aiming for enhanced comfort and energy efficiency.</description>
+    </item>
+    <item>
+      <title>Line Following Robot 🤖➡️</title>
+      <link>http://localhost:1313/projects/line-following-robot/</link>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/projects/line-following-robot/</guid>
+      <description>An Arduino-based robot programmed in assembly to autonomously follow a black line path.</description>
     </item>
   </channel>
 </rss>

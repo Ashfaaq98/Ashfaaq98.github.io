@@ -6,21 +6,77 @@
     <description>Recent content in Projects on Ashfaaq Farzaan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Apr 2025 21:52:45 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 19:38:19 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>http://localhost:1313/projects/test/</link>
-      <pubDate>Sun, 13 Apr 2025 21:52:45 +0100</pubDate>
-      <guid>http://localhost:1313/projects/test/</guid>
-      <description></description>
+      <title>GenAI Cyber Security Repo  🗃️</title>
+      <link>http://localhost:1313/projects/gen-ai-cyber/</link>
+      <pubDate>Mon, 12 May 2025 19:38:19 +0100</pubDate>
+      <guid>http://localhost:1313/projects/gen-ai-cyber/</guid>
+      <description>A curated collection of LLM‑based resources for cyber security</description>
     </item>
     <item>
-      <title>sample</title>
-      <link>http://localhost:1313/projects/sample/</link>
-      <pubDate>Mon, 02 Sep 2024 19:38:19 +0100</pubDate>
-      <guid>http://localhost:1313/projects/sample/</guid>
-      <description>&lt;h2 id=&#34;project-one&#34;&gt;Project One&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;&#xA;Project One is a web application developed to [brief description of the project&amp;rsquo;s purpose].&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Technologies Used:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;React&lt;/li&gt;&#xA;&lt;li&gt;Node.js&lt;/li&gt;&#xA;&lt;li&gt;MongoDB&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Features:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Feature 1: Brief description.&lt;/li&gt;&#xA;&lt;li&gt;Feature 2: Brief description.&lt;/li&gt;&#xA;&lt;li&gt;Feature 3: Brief description.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Live Demo:&lt;/strong&gt; &lt;a href=&#34;https://www.projectone.com&#34;&gt;https://www.projectone.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Source Code:&lt;/strong&gt; &lt;a href=&#34;https://github.com/yourusername/project-one&#34;&gt;GitHub Repository&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Screenshots:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/project-one-screenshot1.jpg&#34; alt=&#34;Project One Screenshot&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/project-one-screenshot2.jpg&#34; alt=&#34;Project One Screenshot&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Challenges and Learnings:&lt;/strong&gt;&#xA;Discuss any challenges faced during development and what you learned from the project.&lt;/p&gt;</description>
+      <title>Skills Tracker</title>
+      <link>http://localhost:1313/projects/skills-tracker/</link>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/skills-tracker/</guid>
+      <description>A Skills Tracker Application to track your skills and reach your goals</description>
+    </item>
+    <item>
+      <title>Model Context Protocol (MCP) Servers for Cyber 🧩</title>
+      <link>http://localhost:1313/projects/mcp-open-source/</link>
+      <pubDate>Sat, 05 Apr 2025 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/projects/mcp-open-source/</guid>
+      <description>A Langgraph CTI agent that leverages a MCP client to connect to MCP Servers</description>
+    </item>
+    <item>
+      <title>Neural Malware Detector 🕷️</title>
+      <link>http://localhost:1313/projects/neural-malware-detector/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/projects/neural-malware-detector/</guid>
+      <description>A Flask web app leveraging both Random Forest and RNN models to detect malware in uploaded files.</description>
+    </item>
+    <item>
+      <title>Periscope  🔭</title>
+      <link>http://localhost:1313/projects/periscope/</link>
+      <pubDate>Fri, 26 Jan 2024 19:38:19 +0100</pubDate>
+      <guid>http://localhost:1313/projects/periscope/</guid>
+      <description>An AI‑enabled system for efficient cyber incident detection and response in cloud environments.</description>
+    </item>
+    <item>
+      <title>Porsha 🫆</title>
+      <link>http://localhost:1313/projects/porsha/</link>
+      <pubDate>Thu, 13 Apr 2023 21:52:45 +0100</pubDate>
+      <guid>http://localhost:1313/projects/porsha/</guid>
+      <description>A Python based Digital Forensic Toolkit.</description>
+    </item>
+    <item>
+      <title>SDN-based Load Balancer for SOHO Environments 🌐⚖️</title>
+      <link>http://localhost:1313/projects/sdn/</link>
+      <pubDate>Sat, 08 Jan 2022 00:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/projects/sdn/</guid>
+      <description>Development of an SDN-based load balancing algorithm that utilizes server bandwidth metrics, implemented on a POX controller and tested in Mininet and Raspberry Pi environments.</description>
+    </item>
+    <item>
+      <title>Enterprise Network Design for Multi-Tenant Data Center 🖧 📐</title>
+      <link>http://localhost:1313/projects/enteprise-network-design/</link>
+      <pubDate>Tue, 16 Nov 2021 19:38:19 +0100</pubDate>
+      <guid>http://localhost:1313/projects/enteprise-network-design/</guid>
+      <description>A comprehensive design diagram for a multi-tenant data center, focusing on physical and logical topologies, high availability, and disaster recovery using AWS.</description>
+    </item>
+    <item>
+      <title>Autonomous Air Controller 🌡️🏠</title>
+      <link>http://localhost:1313/projects/autonomous-air-controller/</link>
+      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/autonomous-air-controller/</guid>
+      <description>An IoT-based system to autonomously control air conditioner settings by monitoring room occupancy, individual body temperatures, and overall room temperature, aiming for enhanced comfort and energy efficiency.</description>
+    </item>
+    <item>
+      <title>Line Following Robot 🤖➡️</title>
+      <link>http://localhost:1313/projects/line-following-robot/</link>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/projects/line-following-robot/</guid>
+      <description>An Arduino-based robot programmed in assembly to autonomously follow a black line path.</description>
     </item>
   </channel>
 </rss>

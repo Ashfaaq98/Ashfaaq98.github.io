@@ -1,0 +1,27 @@
+{{ define "main" }}
+<section class="projects">
+  <h1>{{ .Title }}</h1>
+  <hr style="border: none; border-top: 2px solid #ccc; margin: 0.5rem 0 1.5rem 0;">
+  {{ if .Params.description }}
+    <p>{{ .Params.description }}</p>
+  {{ end }}
+
+  {{ range .Pages.ByDate.Reverse }}
+    <article style="margin-bottom: 1.2rem; line-height: 1.4;">
+      <p style="font-size: 1.25rem; font-weight: 600; margin: 0 0 0.25rem 0;">
+        {{ .Title }}
+      </p>
+      <p style="margin: 0;"><strong>Date:</strong> {{ .Date.Format "January 2, 2006" }}</p>
+      {{ with .Params.summary }}
+        <p style="margin: 0;"><strong>Description:</strong> {{ . }}</p>
+      {{ end }}
+      {{ with .Params.technologies }}
+        <p style="margin: 0;"><strong>Tech Stack:</strong> {{ delimit . ", " }}</p>
+      {{ end }}
+      <p style="margin: 0.2rem 0 0.6rem 0;">
+        <a href="{{ .RelPermalink }}">View Project →</a>
+      </p>
+    </article>
+  {{ end }}
+</section>
+{{ end }}
