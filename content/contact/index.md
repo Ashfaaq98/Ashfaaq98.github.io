@@ -10,7 +10,7 @@ If you'd like to work together or have any questions, feel free to reach out. Yo
 - 📧 **Email:** [ashfaaqf@proton.me](mailto:ashfaaqf@proton.me)
 - 💼 **LinkedIn:** [ashfaaq98](https://www.linkedin.com/in/ashfaaq98)
 - 🐦 **Twitter:** [TaprobaneLinux](https://x.com/TaprobaneLinux)
-- 🛠️ **GitHub:** [Check Github Repo ](https://github.com/ashfaaq98)
+- 🛠️ **GitHub:** [ashfaaq98](https://github.com/ashfaaq98)
 
 I look forward to connecting with you!
 
