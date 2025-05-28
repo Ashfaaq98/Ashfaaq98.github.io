@@ -37,7 +37,7 @@ technologies = ["Python", "PyQt6", "pytsk3", "Scapy", "Hachoir"]
 
 ### 🔗 Explore the Repository
 
-- **GitHub Repository:** [Porsha](https://github.com/Ashfaaq98/Porsha)
+- **GitHub Repository:** [Ashfaaq98/Porsha](https://github.com/Ashfaaq98/Porsha)
 
 ---
 

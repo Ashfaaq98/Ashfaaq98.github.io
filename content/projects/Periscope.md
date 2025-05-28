@@ -3,7 +3,7 @@ title = 'Periscope  🔭'
 date = 2024-01-26T19:38:19+01:00
 draft = false
 summary  = "An AI‑enabled system for efficient cyber incident detection and response in cloud environments."
-technologies = ["Python", "Docker", "Machine Learning"]
+technologies = ["Python", "Docker", "scikit‑learn", "TensorFlow", "scapy", "keras","google cloud", "Azure cloud"]
 +++
 
 
@@ -43,4 +43,3 @@ technologies = ["Python", "Docker", "Machine Learning"]
 
 ---
 
-> 🔍 *Periscope represents my commitment to building AI‑driven security tools that empower teams to detect and respond to threats faster and more accurately.*  

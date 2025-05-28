@@ -173,27 +173,52 @@
   <header class="mb-14">
     <h1 class="my-0! pb-2.5">Model Context Protocol (MCP) Servers for Cyber 🧩</h1><div class="text-xs antialiased opacity-60"><time>Apr 5, 2025</time></div></header>
 
-  <section><h2 id="project-overview">Project Overview</h2>
-<p>This repository is a collection of <strong>MCP servers for cybersecurity</strong>. The following servers is implemented:</p>
+  <section><h2 id="-project-overview">🧠 Project Overview</h2>
+<p>This repository provides a modular collection of <strong>MCP (Model Context Protocol) servers</strong> for cybersecurity threat intelligence (CTI) applications. Each server integrates with a third-party CTI provider and exposes structured threat data to LangGraph-based agents via a standardized MCP interface.</p>
+<p>The goal is to <strong>enable real-time, contextual intelligence gathering</strong> through seamless plug-and-play server modules.</p>
+<hr>
+<h3 id="-implemented-servers">🧪 Implemented Servers</h3>
 <ol>
 <li>
-<p>VirusTotal - Integrates with VirusTotal&rsquo;s API to fetch real-time threat intelligence data, including reports on IP addresses, domains, file hashes, and URLs, along with threat categories, attack tactics, and techniques.</p>
+<p><strong>🔬 VirusTotal</strong><br>
+Connects to the VirusTotal API to retrieve threat reports on:</p>
+<ul>
+<li>File hashes, domains, IPs, and URLs</li>
+<li>Threat categories and metadata</li>
+<li>Mapped MITRE ATT&amp;CK tactics and techniques</li>
+</ul>
 </li>
 <li>
-<p>RSTcloud - Connects with the RSTcloud API to provide up-to-the-minute threat intelligence. This integration delivers detailed reports on IP addresses, domains, file hashes, and URLs, enriched with threat classifications, attack methods, and techniques.</p>
+<p><strong>🛰️ RSTCloud</strong><br>
+Leverages the RSTCloud API to deliver real-time intelligence with:</p>
+<ul>
+<li>IOC enrichment (IPs, hashes, domains, URLs)</li>
+<li>Threat classification and contextual metadata</li>
+<li>Linked attack vectors and behavioral patterns</li>
+</ul>
+</li>
+<li>
+<p><strong>🛡️ AlienVault OTX</strong><br>
+Integrates with the AlienVault Open Threat Exchange to:</p>
+<ul>
+<li>Query threat pulses and community-contributed indicators</li>
+<li>Retrieve associated file hashes, IPs, and domains</li>
+<li>Access attack tags, tags, techniques, and contributor metadata</li>
+</ul>
 </li>
 </ol>
 <hr>
 <h3 id="-explore-the-repository">🔗 Explore the Repository</h3>
 <ul>
-<li><strong>GitHub Repository:</strong> <a href="https://github.com/priamai/mcp">priamai mcp</a></li>
+<li><strong>GitHub Repository:</strong> <a href="https://github.com/priamai/mcp">priamai/mcp</a></li>
 </ul>
+<hr>
 </section>
 
   <nav
     class="mt-24 flex overflow-hidden rounded-xl bg-black/[3%] text-lg leading-[1.2]! *:flex *:w-1/2 *:items-center *:p-5 *:font-medium *:no-underline dark:bg-white/[8%] [&>*:hover]:bg-black/[2%] dark:[&>*:hover]:bg-white/[3%]"
   ><a class="ltr:pr-3 rtl:pl-3" href="http://localhost:1313/projects/skills-tracker/"
-      ><span class="ltr:mr-1.5 rtl:ml-1.5">←</span><span>Skills Tracker</span></a
+      ><span class="ltr:mr-1.5 rtl:ml-1.5">←</span><span>Skills Tracker 📈</span></a
     ><a
       class="justify-end pl-3 ltr:ml-auto rtl:mr-auto"
       href="http://localhost:1313/projects/neural-malware-detector/"
