@@ -1,5 +1,5 @@
 +++
-title = 'Console IR  🧩'
+title = 'Console IR  🖥️'
 date = 2025-10-14T19:38:19+01:00
 draft = false
 summary = 'A terminal-first incident response console for real-time OCSF event ingestion, enrichment, and AI-assisted case management.'
