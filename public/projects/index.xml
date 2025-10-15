@@ -6,14 +6,21 @@
     <description>Recent content in Projects on Ashfaaq Farzaan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 May 2025 19:38:19 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 23:08:19 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>💡 Upcoming Projects 💡</title>
       <link>http://localhost:1313/projects/upcoming-projects/</link>
-      <pubDate>Mon, 19 May 2025 19:38:19 +0100</pubDate>
+      <pubDate>Tue, 14 Oct 2025 23:08:19 +0100</pubDate>
       <guid>http://localhost:1313/projects/upcoming-projects/</guid>
-      <description>&lt;h2 id=&#34;-heisenberg-rag&#34;&gt;🧠 Heisenberg RAG&lt;/h2&gt;&#xA;&lt;p&gt;A system to experiment with and evaluate different Retrieval-Augmented Generation architectures. Choosing the right RAG approach is critical for domain-specific performance.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-court-of-owls&#34;&gt;🦉 Court of Owls&lt;/h2&gt;&#xA;&lt;p&gt;An AI-assisted multi-agent framework for penetration testing and AI red teaming.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-kanmani&#34;&gt;🤖 Kanmani&lt;/h2&gt;&#xA;&lt;p&gt;A continuously learning, modular AI agent designed to be productive and highly customizable — inspired by IRIS.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-talk-to-me&#34;&gt;🎭 TALK TO ME&lt;/h2&gt;&#xA;&lt;p&gt;A dual-personality AI agent that balances work and life, switching modes to handle personal and professional tasks intelligently.&lt;/p&gt;</description>
+      <description>A living roadmap of AI and security projects currently being explored and scoped.</description>
+    </item>
+    <item>
+      <title>Console IR  🧩</title>
+      <link>http://localhost:1313/projects/console-ir/</link>
+      <pubDate>Tue, 14 Oct 2025 19:38:19 +0100</pubDate>
+      <guid>http://localhost:1313/projects/console-ir/</guid>
+      <description>A terminal-first incident response console for real-time OCSF event ingestion, enrichment, and AI-assisted case management.</description>
     </item>
     <item>
       <title>GenAI Cyber Security Repo  🗃️</title>
