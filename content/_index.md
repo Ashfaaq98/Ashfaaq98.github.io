@@ -9,7 +9,7 @@ draft = false
 
 
 
-🛡️ **Cyber AI Engineer | Security Researcher**
+🛡️ **AI Engineer | Cyber Security Researcher**
 
 Hi there! Navigating today's complex cybersecurity landscape is challenging, right? That's where I come in. I'm passionate about creating powerful, multi-agent 🤖 AI applications specifically designed to tackle these complex challenges head-on, enhancing how we detect and respond to cyber risks.
 

@@ -4,7 +4,7 @@ date = 2024-09-02T19:17:39+01:00
 draft = false
 +++
 ---
-👋 Hello! I’m **Ashfaaq Farzaan**, a **Cyber AI Engineer** based in London, UK 🇬🇧. I love building systems that think and adapt by combining AI and cybersecurity to make technology safer for everyone.
+👋 Hello! I’m **Ashfaaq Farzaan**, a **AI Engineer** based in London, UK 🇬🇧. I love building systems that think and adapt by combining AI and cybersecurity to make technology safer for everyone.
 
 
 🤖 With a  background in  security,  system engineering, and  Large Language Models (LLMs), I design and develop next-gen AI Agentic systems for security operations.

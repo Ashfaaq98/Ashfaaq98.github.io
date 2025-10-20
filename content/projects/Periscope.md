@@ -35,11 +35,9 @@ technologies = ["Python", "Docker", "scikit‑learn", "TensorFlow", "scapy", "ke
 
 ---
 
-### 🤔 What I Learned
+### 🔗 Explore the Repository
 
-- Designing **modular architectures** that allow independent scaling of detection components.  
-- Integrating **machine learning** into real‑time security workflows.  
-- Orchestrating **Dockerized services** for consistent cloud deployments.  
+- **GitHub Repository:** [Ashfaaq98/Periscope](https://github.com/Ashfaaq98/Periscope)
 
 ---
 

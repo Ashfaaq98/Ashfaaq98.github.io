@@ -10,6 +10,10 @@ technologies = ["Go", "Redis", "SQLite","Docker"]
 
 An AI-augmented incident response console that combines real-time event ingestion, enrichment, and case management — designed for security analysts to investigate, correlate, and resolve incidents directly from the terminal
 
+### 🔗 Explore the Repository
+
+- **GitHub Repository:** [Ashfaaq98/ocsf-console-ir](https://github.com/Ashfaaq98/ocsf-console-ir)
+
 ---
 
 
