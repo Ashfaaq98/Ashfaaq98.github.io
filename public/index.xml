@@ -6,14 +6,21 @@
     <description>Recent content on Ashfaaq Farzaan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Oct 2025 23:08:19 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 23:08:19 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>💡 Upcoming Projects 💡</title>
       <link>http://localhost:1313/projects/upcoming-projects/</link>
-      <pubDate>Tue, 14 Oct 2025 23:08:19 +0100</pubDate>
+      <pubDate>Mon, 20 Oct 2025 23:08:19 +0100</pubDate>
       <guid>http://localhost:1313/projects/upcoming-projects/</guid>
       <description>A living roadmap of AI and security projects currently being explored and scoped.</description>
+    </item>
+    <item>
+      <title>AI Security Repo  🥷</title>
+      <link>http://localhost:1313/projects/ai-sec-research/</link>
+      <pubDate>Sun, 19 Oct 2025 19:38:19 +0100</pubDate>
+      <guid>http://localhost:1313/projects/ai-sec-research/</guid>
+      <description>A collection of resources related AI Security.</description>
     </item>
     <item>
       <title>Console IR  🖥️</title>

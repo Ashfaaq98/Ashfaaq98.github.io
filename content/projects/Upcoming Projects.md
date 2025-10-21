@@ -1,6 +1,6 @@
 +++
 title = '💡 Upcoming Projects 💡'
-date = 2025-10-14T23:08:19+01:00
+date = 2025-10-20T23:08:19+01:00
 draft = false
 summary = 'A living roadmap of AI and security projects currently being explored and scoped.'
 +++
