@@ -8,7 +8,17 @@ technologies = ["Go", "Redis", "SQLite","Docker"]
 
 ## 🛡️ TUI based Incident Response Platform
 
-An AI-augmented incident response console that combines real-time event ingestion, enrichment, and case management — designed for security analysts to investigate, correlate, and resolve incidents directly from the terminal
+An AI-augmented incident response console that combines real-time event ingestion, enrichment, and case management - designed for security analysts to investigate, correlate, and resolve incidents directly from the terminal
+
+---
+
+### Demo - Short walkthrough
+
+A quick tour of the TUI.
+
+![TUI walkthrough](/images/demo.gif)
+
+---
 
 ### 🔗 Explore the Repository
 
@@ -16,6 +26,3 @@ An AI-augmented incident response console that combines real-time event ingestio
 
 ---
 
-
-
----
