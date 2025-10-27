@@ -69,33 +69,6 @@ draft = false
 
 ---
 
-## 🛠️ Skills & Tools
-
-#### 🧠 AI/ML 
-- LangChain, LangGraph, Langsmith
-- LLM Fine-Tuning, Prompt Engineering, LLM Eval
-- RAG, AI agents, LLMOps
-- Data Pipelines, Feature Engineering
-
-#### 🕵️ Security
-- Wireshark, Nmap, Nessus, Metasploit, Snort    
-- Suricata, Malware Analysis, Security Operations  
-- ELK Stack, Network Security, Digital Forensics
-- AI Red Teaming, Penetration Testing, Burp Suite  
-
-#### 🧰 DevOps
-- Git, Docker, Kubernetes, Python, Bash Scripting
-- System Administration,Linux Administration, Virtualization
-- Azure Cloud, Google Cloud Platform, Amazon Web Services
-
-#### 💡 Soft Skills
-- Analytical Thinking, Problem-Solving  
-- Communication, Team Collaboration  
-- Adaptability, Continuous Learning, Independent Research
-
----
-
-
 ## 🎯 Interests
 
 > When I’m not wrestling with Agents, you’ll find me…
