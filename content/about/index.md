@@ -55,7 +55,7 @@ draft = false
 
 ## 💼 Professional Experience
 
-#### 🤖 Cyber AI Engineer @ Priam Cyber AI, London, UK  
+#### 🤖 AI Engineer @ Priam Cyber AI, London, UK  
 **July 2024 – Present**  
 - Designed and built AI-driven systems using RAG pipelines and fine-tuned LLMs to help security teams detect and respond to threats faster, while continuously improving model performance through real-world feedback and testing.
 
