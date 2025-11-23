@@ -5,9 +5,10 @@ draft = false
 summary = 'A collection of resources related AI Security.'
 +++
 
-## 🛡️ Cybersecurity Meets Generative AI
+## 🛡️ AI Security
 
 A collection of resources documenting my research and learning journey in AI Security.
+
 ---
 
 
