@@ -1,0 +1,55 @@
+# Hugo generated output
+public/
+resources/_gen/
+.hugo_build.lock
+.hugo_cache/
+hugo_stats.json
+
+# Theme & build artifacts
+themes/**/node_modules/
+themes/**/dist/
+assets/.cache/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+/.pnp
+.pnp.js
+
+# Build folders
+dist/
+build/
+
+# Generated static site files (if built into different folder)
+/public/
+
+# Environment
+.env
+.env.*.local
+
+# Logs
+*.log
+logs/
+
+# Editors
+.vscode/
+*.code-workspace
+.idea/
+*.sublime-workspace
+
+# macOS
+.DS_Store
+.AppleDouble
+._*
+
+# Windows/thumbs
+Thumbs.db
+
+# Misc
+*.pem
+*.key
+*.crt
+*.p12

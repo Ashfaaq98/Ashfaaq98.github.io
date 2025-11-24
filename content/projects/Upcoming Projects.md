@@ -1,8 +1,8 @@
 +++
 title = '💡 Upcoming Projects 💡'
-date = 2025-11-23T23:08:19+01:00
+date = 2025-11-23T19:38:19+01:00
 draft = false
-summary = 'A living roadmap of AI and security projects currently being explored and scoped.'
+summary = 'A living roadmap of the projects currently being explored and scoped.'
 +++
 
 ## 🧠 Heisenberg RAG  
