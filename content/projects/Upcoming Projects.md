@@ -1,9 +1,14 @@
 +++
 title = '💡 Upcoming Projects 💡'
-date = 2025-11-23T19:38:19+01:00
+date = 2025-11-25T19:38:19+01:00
 draft = false
 summary = 'A living roadmap of the projects currently being explored and scoped.'
 +++
+
+## 💀 Cyber Threat Attribution
+#### Status - In Progress
+***Description***: Cybersecurity Threat Analysis and Cyber-Attack Attribution with AI-Driven Solutions
+
 
 ## 🧠 Heisenberg RAG  
 #### Status - In Progress
@@ -15,6 +20,3 @@ summary = 'A living roadmap of the projects currently being explored and scoped.
 ***Description***: A continuously learning, modular AI agent designed to be productive and highly customizable — inspired by IRIS.
 
 
-## 💀 Cyber Threat Attribution
-#### Status - In Progress
-***Description***: Cybersecurity Threat Analysis and Cyber-Attack Attribution with AI-Driven Solutions
