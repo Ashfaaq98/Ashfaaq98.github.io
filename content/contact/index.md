@@ -7,7 +7,6 @@ draft = false
 
 If you'd like to work together or have any questions, feel free to reach out. You can contact me through any of the following:
 
-- 📧 **Email:** [ashfaaqf@proton.me](mailto:ashfaaqf@proton.me)
 - 💼 **LinkedIn:** [ashfaaq98](https://www.linkedin.com/in/ashfaaq98)
 - 🐦 **Twitter:** [TaprobaneLinux](https://x.com/TaprobaneLinux)
 - 🛠️ **GitHub:** [ashfaaq98](https://github.com/ashfaaq98)
