@@ -6,14 +6,21 @@
     <description>Recent content in Projects on Ashfaaq Farzaan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Dec 2025 19:38:19 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 19:38:19 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>💡 Upcoming Projects 💡</title>
       <link>http://localhost:1313/projects/upcoming-projects/</link>
-      <pubDate>Sat, 13 Dec 2025 19:38:19 +0100</pubDate>
+      <pubDate>Thu, 19 Feb 2026 19:38:19 +0100</pubDate>
       <guid>http://localhost:1313/projects/upcoming-projects/</guid>
       <description>A living roadmap of the projects currently being explored and scoped.</description>
+    </item>
+    <item>
+      <title>Technique Inference Engine (TIE) 🎯</title>
+      <link>http://localhost:1313/projects/tie/</link>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/tie/</guid>
+      <description>Predicts associated MITRE ATT&amp;amp;CK® techniques from observed adversary behavior using WALS matrix factorization.</description>
     </item>
     <item>
       <title>MITRE ATT&amp;CK Python Toolkit 🛡️</title>
