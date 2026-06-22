@@ -2,6 +2,7 @@ baseURL = 'https://Ashfaaq98.github.io/'
 languageCode = 'en-us'
 title = 'Ashfaaq Farzaan'
 theme = ["paper",'hugo-shortcodes']
+buildFuture = true
 
 # Main Menu Configuration
 

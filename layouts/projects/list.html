@@ -6,7 +6,7 @@
     <p>{{ .Params.description }}</p>
   {{ end }}
 
-  {{ range .Pages.ByDate.Reverse }}
+  {{ range .Pages.ByWeight }}
     <article style="margin-bottom: 1.2rem; line-height: 1.4;">
       <p style="font-size: 1.25rem; font-weight: 600; margin: 0 0 0.25rem 0;">
         {{ .Title }}

@@ -1,6 +1,7 @@
 +++
 title = '💡 Upcoming Projects 💡'
-date = 2026-02-19T19:38:19+01:00
+date = 2026-06-22T00:00:00+00:00
+weight = -10
 draft = false
 summary = 'A living roadmap of the projects currently being explored and scoped.'
 +++
@@ -14,15 +15,3 @@ summary = 'A living roadmap of the projects currently being explored and scoped.
 ## 💀 Cyber Threat Attribution
 #### Status - Testing
 ***Description***: Cybersecurity Threat Analysis and Cyber-Attack Attribution with AI-Driven Solutions
-
-
-## 🧠 Heisenberg RAG  
-#### Status - In Progress
-***Description***: A system to experiment with and evaluate different Retrieval-Augmented Generation architectures. Choosing the right RAG approach is critical for domain-specific performance.
-
-
-## 🤖 Kanmani
-#### Status - Not Yet Started
-***Description***: A continuously learning, modular AI agent designed to be productive and highly customizable — inspired by IRIS.
-
-
