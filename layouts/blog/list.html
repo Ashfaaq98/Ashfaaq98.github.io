@@ -1,9 +1,8 @@
 {{- define "main" -}}
 
-<!-- Tag Title -->
-{{- if and .Title (eq .Type "tags") -}}
-<h1 class="mb-14">#{{- .Title -}}</h1>
-{{- end -}}
+<header>
+  <h1 class="mb-14">{{- .Title -}}</h1>
+</header>
 
 <!-- $pages -->
 {{- $pages := union .RegularPages .Sections -}}<!---->
@@ -48,19 +47,25 @@ $paginator.Pages -}}<!---->
 
 {{- end -}}
 
-<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+<section class="blog-entry">
   {{- if gt .Weight 0 -}}
-  <span class="mb-1 inline-block text-xs tracking-wider text-orange-500"
-    >Featured</span
-  >
+  <span class="mb-1 inline-block text-xs tracking-wider text-orange-500">Featured</span>
   {{- end -}}
-  <h2 class="my-0!">{{- .Title -}}</h2>
-  <time class="text-xs antialiased opacity-60"
-    >{{- .Date | time.Format ":date_medium" -}}</time
-  >
-  <a class="absolute inset-0 text-[0px]" href="{{- .Params.externalUrl | default .Permalink -}}" {{- if .Params.externalUrl }} target="_blank" rel="noopener noreferrer" {{- end -}}
-    >{{- .Title -}}</a
-  >
+  
+  <h2 class="blog-entry-title">{{- .Title -}}</h2>
+  
+  <div class="blog-entry-meta" style="margin-top: 0.2rem;">
+    <time class="text-xs font-mono antialiased opacity-60">{{- .Date | time.Format "Jan 02, 2006" -}}</time>
+  </div>
+  
+  {{- with .Params.summary -}}
+    <p class="blog-entry-summary">{{- . -}}</p>
+  {{- end -}}
+  
+  <a href="{{- .Params.externalUrl | default .Permalink -}}" {{- if .Params.externalUrl }} target="_blank" rel="noopener noreferrer" {{- end -}} class="blog-entry-link" style="text-decoration: none; width: fit-content; display: flex; align-items: center; gap: 0.25rem; margin-top: 1rem; color: #3b82f6;">
+    <span style="border-bottom: 1px solid transparent;">{{- if .Params.externalUrl -}}Read Article{{- else -}}Read Post{{- end -}}</span>
+    <svg width="16" height="16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" style="margin-bottom: 2px;"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
+  </a>
 </section>
 {{- end -}}
 
