@@ -23,10 +23,10 @@ theme = ["paper",'hugo-shortcodes']
   url = "/projects/"
   weight = 20
 
-#[[menu.main]]
- # name = "Blog"
-  #url = "/blog/" 
-  #weight = 30
+[[menu.main]]
+  name = "Blog"
+  url = "/blog/" 
+  weight = 30
 
 [[menu.main]]
   name = "Contact"
@@ -47,7 +47,7 @@ theme = ["paper",'hugo-shortcodes']
   # home page profile
   avatar = '/images/ashfaaq.png'                 
   name = 'Ashfaaq Farzaan'
-  bio = 'test'
+  bio = 'AI Engineer & Security Researcher building intelligent, autonomous systems to defend the next generation of digital infrastructure.'
 
   # misc
   disableHLJS = true                        # disable highlight.js
