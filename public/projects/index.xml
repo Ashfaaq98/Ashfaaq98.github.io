@@ -108,9 +108,9 @@
     </item>
     <item>
       <title>Enterprise Network Design for Multi-Tenant Data Center 🖧 📐</title>
-      <link>http://localhost:1313/projects/enteprise-network-design/</link>
+      <link>http://localhost:1313/projects/enterprise-network-design/</link>
       <pubDate>Tue, 16 Nov 2021 19:38:19 +0100</pubDate>
-      <guid>http://localhost:1313/projects/enteprise-network-design/</guid>
+      <guid>http://localhost:1313/projects/enterprise-network-design/</guid>
       <description>A comprehensive design diagram for a multi-tenant data center, focusing on physical and logical topologies, high availability, and disaster recovery using AWS.</description>
     </item>
     <item>

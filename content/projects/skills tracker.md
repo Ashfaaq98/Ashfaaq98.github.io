@@ -21,7 +21,7 @@ technologies = ["Python", "Flask", "SQLite","React JS"]
   Built with **Flask**, the backend handles skill entries, updates, and retrieval via a clean, scalable API with `Flask-CORS` support.
 
 - **📈 Interactive Dashboard**  
-  The frontend, built in **React** and powered by `react-chartjs-2`, provides dynamic visualizations including spidar radar charts that reflect skill progression.
+  The frontend, built in **React** and powered by `react-chartjs-2`, provides dynamic visualizations including radar charts that reflect skill progression.
 
 - **🐳 Dockerized Setup**  
   Easily spin up both backend and frontend environments using **Docker Compose** for consistent local development.

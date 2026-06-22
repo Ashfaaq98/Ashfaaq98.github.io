@@ -32,7 +32,7 @@ The goal is to **enable real-time, contextual intelligence gathering** through s
    Integrates with the AlienVault Open Threat Exchange to:
    - Query threat pulses and community-contributed indicators  
    - Retrieve associated file hashes, IPs, and domains  
-   - Access attack tags, tags, techniques, and contributor metadata  
+   - Access attack tags, techniques, and contributor metadata  
 
 ---
 

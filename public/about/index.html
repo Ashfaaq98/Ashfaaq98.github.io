@@ -43,17 +43,44 @@ Jan 2023 – May 2024" />
   <meta name="author" content="Ashfaaq Farzaan" /><link rel="preload stylesheet" as="style" href="http://localhost:1313/main.min.css" />
 
   
-  <link rel="preload" as="image" href="http://localhost:1313/theme.png" />
+  <link rel="preload" as="image" href="http://localhost:1313/theme.svg" />
 
-  <link rel="preload" as="image" href="https://www.gravatar.com/avatar/9fe9ba952bb373d5acc2e3edeec5c7af?s=160&amp;d=identicon" />
+  <link rel="preload" as="image" href="/images/ashfaaq.png" />
 
   <link rel="preload" as="image" href="http://localhost:1313/twitter.svg" /><link rel="preload" as="image" href="http://localhost:1313/github.svg" /><link rel="preload" as="image" href="http://localhost:1313/linkedin.svg" />
 
-  <script
-    defer
-    src="http://localhost:1313/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
-  ></script>
+  <link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/katex.min.css"
+  integrity="sha384-3UiQGuEI4TTMaFmGIZumfRPtfKQ3trwQE2JgosJxCnGmQpL/lJdjpcHkaaFwHlcI"
+  crossorigin="anonymous"
+/>
+<script
+  defer
+  src="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/katex.min.js"
+  integrity="sha384-G0zcxDFp5LWZtDuRMnBkk3EphCK1lhEf4UEyEM693ka574TZGwo4IWwS6QLzM/2t"
+  crossorigin="anonymous"
+></script>
+<script
+  defer
+  src="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/contrib/auto-render.min.js"
+  integrity="sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05"
+  crossorigin="anonymous"
+></script><script>
+  document.addEventListener('DOMContentLoaded', () =>
+    renderMathInElement(document.body, {
+      
+      
+      delimiters: [
+        { left: '$$', right: '$$', display: true },
+        { left: '$', right: '$', display: false },
+      ],
+      
+      throwOnError: false,
+    }),
+  );
+</script>
+
 
   
   <link
@@ -79,7 +106,7 @@ Jan 2023 – May 2024" />
       >Ashfaaq Farzaan</a
     >
     <div
-      class="btn-dark text-[0px] ltr:ml-4 rtl:mr-4 h-6 w-6 shrink-0 cursor-pointer [background:url(./theme.png)_left_center/_auto_theme('spacing.6')_no-repeat] [transition:_background-position_0.4s_steps(5)] dark:[background-position:right]"
+      class="btn-dark text-[0px] ltr:ml-4 rtl:mr-4 h-6 w-6 shrink-0 cursor-pointer [background:url(./theme.svg)_left_center/cover_no-repeat] dark:invert dark:[background-position:right]"
       role="button"
       aria-label="Dark"
     ></div>
@@ -156,24 +183,21 @@ Jan 2023 – May 2024" />
         >Contact</a
       ></nav><nav
       class="mt-12 flex justify-center space-x-10 lg:mt-0 lg:items-center ltr:lg:ml-14 rtl:space-x-reverse rtl:lg:mr-14 dark:invert"
-    >
-      <a
+    ><a
         class="h-7 w-7 text-[0px] [background:var(--url)_center_center/cover_no-repeat] lg:h-6 lg:w-6"
-        style="--url: url(./twitter.svg)"
+        style="--url: url('/twitter.svg')"
         href="https://twitter.com/@TaprobaneLinux"
         target="_blank"
         rel="me"
-      >twitter</a>
-      <a
+      >twitter</a><a
         class="h-7 w-7 text-[0px] [background:var(--url)_center_center/cover_no-repeat] lg:h-6 lg:w-6"
-        style="--url: url(./github.svg)"
+        style="--url: url('/github.svg')"
         href="https://github.com/Ashfaaq98"
         target="_blank"
         rel="me"
-      >github</a>
-      <a
+      >github</a><a
         class="h-7 w-7 text-[0px] [background:var(--url)_center_center/cover_no-repeat] lg:h-6 lg:w-6"
-        style="--url: url(./linkedin.svg)"
+        style="--url: url('/linkedin.svg')"
         href="https://linkedin.com/in/Ashfaaq98"
         target="_blank"
         rel="me"
@@ -195,7 +219,7 @@ Jan 2023 – May 2024" />
 <p>“Lifelong learning fuels my mission to push the frontier of AI-driven security.”</p></blockquote>
 <hr>
 <h2 id="-education">🎓 Education</h2>
-<!-- raw HTML omitted -->
+<div class="callout">
 <h3 id="-academic">🎖️ Academic</h3>
 <ul>
 <li>
@@ -210,7 +234,8 @@ SLIIT, Colombo, Sri Lanka<br>
 <em>Jan 2018 – Dec 2021</em></p>
 </li>
 </ul>
-<!-- raw HTML omitted -->
+</div>
+<div class="callout">
 <h3 id="-research--publication">📚 Research &amp; Publication</h3>
 <ul>
 <li><strong>“AI‑Powered System for an Efficient and Effective Cyber Incidents Detection and Response in Cloud Environments”</strong><br>
@@ -218,6 +243,8 @@ SLIIT, Colombo, Sri Lanka<br>
 <a href="https://ieeexplore.ieee.org/document/10979487">View the Paper</a><br>
 <a href="https://ieeexplore.ieee.org/document/10979487"><img src="https://img.shields.io/badge/IEEE%E2%80%91Xplore-10979487-blue" alt="IEEE Xplore"></a></li>
 </ul>
+</div>
+<div class="callout">
 <h3 id="-certifications--courses">📜 Certifications &amp; Courses</h3>
 <ul>
 <li><strong>ISC2 Certified in Cybersecurity</strong> (ISC2) — <a href="https://www.credly.com/badges/1c77ac82-af61-4773-b599-c4acbc6ca88b/public_url">View Badge</a></li>
@@ -226,6 +253,7 @@ SLIIT, Colombo, Sri Lanka<br>
 <li><strong>Practical Ethical Hacking Course</strong> (TCM Academy)</li>
 <li><strong>MD‑100: Windows Client</strong> (Microsoft) — <a href="https://www.credly.com/badges/b0052149-c4cb-430c-8e70-dbf9039a107f/public_url">View Badge</a></li>
 </ul>
+</div>
 <hr>
 <h2 id="-professional-experience">💼 Professional Experience</h2>
 <h4 id="-ai-engineer--priam-cyber-ai-london-uk">🤖 AI Engineer @ Priam Cyber AI, London, UK</h4>
@@ -256,7 +284,7 @@ SLIIT, Colombo, Sri Lanka<br>
 </section>
 
   </article></main><footer style="text-align: center; padding: 1rem 0;">
-  <p>&copy; 2025 Ashfaaq Farzaan</p>
+  <p>&copy; 2026 Ashfaaq Farzaan</p>
   
   <script
     data-name="BMC-Widget"

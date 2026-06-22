@@ -30,9 +30,9 @@ draft = false
   SLIIT, Colombo, Sri Lanka  
   _Jan 2018 – Dec 2021_
 
+</div>
+
 <div class="callout">
-
-
 
 ### 📚 Research & Publication
 
@@ -41,7 +41,9 @@ draft = false
   [View the Paper](https://ieeexplore.ieee.org/document/10979487)  
   [![IEEE Xplore](https://img.shields.io/badge/IEEE‑Xplore-10979487-blue)](https://ieeexplore.ieee.org/document/10979487)
 
+</div>
 
+<div class="callout">
 
 ### 📜 Certifications & Courses
 
@@ -50,6 +52,9 @@ draft = false
 - **Foundation Level Threat Intelligence Analyst** (arcX) — [View Certificate](https://arcx.io/verify-certificate?id=3c06cf9145d4a5e3ab601fb4630a9497a954b105&k=152841746ca74fc7a1c4c8cb9f2f60a0)  
 - **Practical Ethical Hacking Course** (TCM Academy)  
 - **MD‑100: Windows Client** (Microsoft) — [View Badge](https://www.credly.com/badges/b0052149-c4cb-430c-8e70-dbf9039a107f/public_url)  
+
+</div>
+
 ---
 
 
