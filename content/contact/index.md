@@ -23,7 +23,9 @@ If you'd like to work together or have any questions, feel free to reach out usi
     <textarea id="message" name="message" rows="5" required class="w-full px-4 py-2 bg-transparent border border-black/20 dark:border-white/20 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 transition-colors resize-none"></textarea>
   </div>
   
-  <button type="submit" class="px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-lg transition-colors duration-300 w-fit">Send Message 🚀</button>
+  <button type="submit" class="btn-send">
+    Send Message <span>🚀</span>
+  </button>
 </form>
 
 ---
