@@ -33,7 +33,7 @@ If you'd like to work together or have any questions, feel free to reach out usi
 ### 🌐 Connect With Me
 
 - 💼 **LinkedIn:** [ashfaaq98](https://www.linkedin.com/in/ashfaaq98)
-- 🐦 **Twitter:** [TaprobaneLinux](https://x.com/TaprobaneLinux)
+- 🐦 **Twitter:** [\_\_ashfaaq\_\_](https://x.com/__ashfaaq__)
 - 🛠️ **GitHub:** [ashfaaq98](https://github.com/ashfaaq98)
 
 ### 👣 Academic Profiles
